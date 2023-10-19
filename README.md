@@ -3,6 +3,7 @@ An command-line application that asks trivia questions implemented with javascri
 <img width="873" alt="image" src="https://github.com/zxTomw/cli-trivia-game/assets/136772247/2d48cf4d-eb34-44cf-84e3-c2e908c0ac42">
 
 Run the app locally:
+
 Navigate to the project directory, and
 ```bash
 node index.js
